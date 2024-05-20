@@ -7,6 +7,3 @@
 - 👯 I’m looking to collaborate on project xcanime.com
 - 🤔 I’m looking for help with Kotlin
 - 📫 How to reach me: mirasayon@ya.ru
-
-<!-- ![a](./boruto_uzumaki.jpg) -->
-<!-- ![a](gif_.gif) -->
