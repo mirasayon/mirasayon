@@ -1,15 +1,12 @@
-## Hi. 👋🏻 I'm developer and shinobi.
-<!-- 
-**mirasayon/mirasayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hii, I'm mirasayon
 
-Here are some ideas to get you started:
+### Developer and shinobi. I'm from Xamarin City which exists in my °mind°. 18 y/o. NodeJS Fullstack developer. Developer of xcanime.com project. I use TypeScript. Now learning: C#, Kotlin
 
 - 🔭 I’m currently working on xcanime.com
-- 🌱 I’m currently learning Advanced TypeScript features 
+- 🌱 I’m currently learning Node.js features
 - 👯 I’m looking to collaborate on project xcanime.com
 - 🤔 I’m looking for help with Kotlin
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
- ![a](./boruto_uzumaki.jpg) 
+- 📫 How to reach me: mirasayon@ya.ru
+
+<!-- ![a](./boruto_uzumaki.jpg) -->
+<!-- ![a](gif_.gif) -->
