@@ -1,6 +1,8 @@
-# Hii, I'm mirasayon
+# Hiii, I'm Mirasayon
 
-### Developer and shinobi. I'm from Xamarin City which exists in my °mind°. 18 y/o. NodeJS Fullstack developer. Developer of xcanime.com project. I use TypeScript. Now learning: C#, Kotlin
+### Developer and shinobi. I'm from Xamarin City which exists in my °mind°. 18 y/o. 
+
+### NodeJS Fullstack developer. Developer of xcanime.com project. I use TypeScript. Now learning: C#, Kotlin
 
 - 🔭 I’m currently working on xcanime.com
 - 🌱 I’m currently learning Node.js features
