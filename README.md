@@ -15,8 +15,9 @@ I'm from Xamarin City which exists in my _mind_
 
 ## @mirasayon
 
-- 🔭  I’m working on getting ready for universities
-- 🤔  I’m looking for a full-time job!
+- 🤩 I'm a fan of Ryan Dahl
+- 🔭 I’m working on getting ready for universities
+- 🤔 I’m also considering any job offers
 
 ### Contacts
 
