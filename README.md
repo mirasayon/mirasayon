@@ -2,11 +2,13 @@
 
 Developer and shinobi.
 
-Node.js Fullstack developer. Developer of xcanime.com
+Node.js Fullstack developer from Konohagakure.
+
+Developer of [reanime.art](https://reanime.art/)
 
 ![gif](./.github/gif_.gif)
 
-I'm from Xamarin City which exists in my _mind_
+<!-- I'm from Xamarin City which exists in my _mind_ -->
 
     JavaScript, oh yeah, your skin and bones
     Turn into something beautiful
@@ -22,4 +24,4 @@ I'm from Xamarin City which exists in my _mind_
 ### Contacts
 
 - Email: <mirasayon@ya.ru>
-- Telegram: [@mirasayon](https://t.me/mirasayon)
+- Telegram: [@miragesayon](https://t.me/miragesayon)
