@@ -1,6 +1,6 @@
 # Hiii, I'm Mirasayon
 
-Developer and shinobi. 18 y.o.
+Developer and shinobi.
 
 Node.js Fullstack developer. Developer of xcanime.com
 
@@ -16,10 +16,10 @@ I'm from Xamarin City which exists in my _mind_
 ## @mirasayon
 
 - 🤩 I'm a fan of Ryan Dahl
-- 🔭 I’m working on getting ready for universities
-- 🤔 I’m also considering any job offers
+<!-- - 🔭 I’m working on getting ready for universities
+- 🤔 I’m also considering any job offers -->
 
 ### Contacts
 
 - Email: <mirasayon@ya.ru>
-- telegram: [@mirasayon](https://t.me/mirasayon)
+- Telegram: [@mirasayon](https://t.me/mirasayon)
