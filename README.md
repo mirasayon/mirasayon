@@ -17,7 +17,7 @@ Developer of [reanime.art](https://reanime.art/)
 
 ## @mirasayon
 
-- 🤩 I'm a fan of Ryan Dahl
+- 🤩 I'm [Ryan Dahl](https://github.com/ry)'s number one fan.
 <!-- - 🔭 I’m working on getting ready for universities
 - 🤔 I’m also considering any job offers -->
 
