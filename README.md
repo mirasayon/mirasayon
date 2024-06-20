@@ -4,9 +4,9 @@ Developer and shinobi. Node.js🐢/Deno🦕 Fullstack developer from Konohagakur
 
 
 
-<div style="text-align: center;"> 
+<div align="center"> 
 
-Developer of [reanime.art](https://reanime.art/?utm_source=mrsghp)
+ Developer of [reanime.art](https://reanime.art/?utm_source=mrsghp)
 
  <a href="https://reanime.art/?utm_source=mrsghp"> 
      <img src="./asset/icon.webp"/> 
@@ -16,7 +16,7 @@ Developer of [reanime.art](https://reanime.art/?utm_source=mrsghp)
 
 
 
-<div style="text-align: center;"> 
+<div align="center"> 
 
 ![gif](./.github/gif_.gif)
 
