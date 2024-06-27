@@ -1,10 +1,12 @@
 # Hiii, I'm Mirasayon
 
-Hiii everyone! My name is Mira and I'm 18 year old. I've been studying programming since birth.
+<div align="center">
 
-- from Konohagakure
+Hiii everyone! My name is Mira and I'm 18 year old. I've been studying programming since birth. From Konohagakure
 
 Developer and shinobi. Fullstack developer. I work in Node.js🐢/Deno🦕 and I always love it.
+
+</div>
 
 <div align="center">
 
