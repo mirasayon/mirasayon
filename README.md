@@ -13,18 +13,20 @@ Developer and shinobi. Fullstack developer. I work in Node.js🐢/Deno🦕 and I
 Developer of [reanime.art](https://reanime.art/?utm_source=github_mrs_profile)
 
  <a href="https://reanime.art/?utm_source=github_mrs_profile"> 
-     <img src="./asset/icon.webp"/> 
+     <img src="./.github/asset/rea.png" width="200" height="200"/> 
  </a>
 
 </div>
 
 <div align="center">
 
-[![gif](./.github/boruto.gif)](https://reanime.art/?utm_source=github_mrs_profile)
+ <a href="https://reanime.art/serial/34566"> 
+     <img src="./.github/asset/boruto.gif" width="426" height="240"/> 
+ </a>
 
 </div>
 
-Check out my song about JavaScript. It's remix of `Coldplay - Yellow` 👌
+Check out my song about JavaScript **:)**
 
     JavaScript, oh yeah, your skin and bones
     Turn into something beautiful
@@ -38,4 +40,4 @@ Check out my song about JavaScript. It's remix of `Coldplay - Yellow` 👌
 ### Contacts
 
 - Email: <mirasayon@ya.ru>
-- Telegram: [@miragesayon](https://t.me/mirasayon)
+- Telegram: [@miragesayon](https://t.me/miragesayon)
