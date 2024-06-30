@@ -10,9 +10,9 @@ Developer and shinobi. Fullstack developer. I work in Node.js🐢/Deno🦕 and I
 
 <div align="center">
 
-Developer of [reanime.art](https://reanime.art/?utm_source=github_mrs_profile)
+Developer of [reanime.art](https://reanime.art/?utm_source=gh_mrs_profile)
 
- <a href="https://reanime.art/?utm_source=github_mrs_profile"> 
+ <a href="https://reanime.art/?utm_source=gh_mrs_profile"> 
      <img src="./.github/asset/rea.png" width="200" height="200"/> 
  </a>
 
