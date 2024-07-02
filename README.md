@@ -2,9 +2,11 @@
 
 <div align="center">
 
-Hiii everyone! My name is Mira and I'm 18 year old. I've been studying programming since birth. From Konohagakure
+## Hiii everyone! My name is Mira and I'm 18 year old. I've been studying programming since birth. From Konohagakure
 
-Developer and shinobi. Fullstack developer. I work in Node.js🐢/Deno🦕 and I always love it.
+---
+
+## Developer and shinobi. Fullstack developer. I work in Node.js🐢 and Deno🦕 and I always love it.
 
 </div>
 
@@ -12,16 +14,16 @@ Developer and shinobi. Fullstack developer. I work in Node.js🐢/Deno🦕 and I
 
 Developer of [reanime.art](https://reanime.art/?utm_source=gh_mrs_profile)
 
- <a href="https://reanime.art/?utm_source=gh_mrs_profile"> 
-     <img src="./.github/asset/rea.png" width="200" height="200"/> 
+ <a href="https://reanime.art/?utm_source=gh_mrs_profile">
+     <img src="./.github/asset/reaanime_icon.png" width="200" height="200"/>
  </a>
 
 </div>
 
 <div align="center">
 
- <a href="https://reanime.art/serial/34566"> 
-     <img src="./.github/asset/boruto.gif" width="426" height="240"/> 
+ <a href="https://reanime.art/serial/34566">
+     <img src="./.github/asset/boruto_art.gif" width="426" height="240"/>
  </a>
 
 </div>
