@@ -1,9 +1,7 @@
 ## Life only becomes meaningful when it becomes eternal.
 
 <div align="center">
-
-Developer and shinobi. Sole developer of [reanime.art](https://reanime.art/). Often goes by Mira
-
+  Sole developer [reanime.art](https://reanime.art/). Often goes by Mira
 </div>
 
 <div align="center">
@@ -15,5 +13,4 @@ Developer and shinobi. Sole developer of [reanime.art](https://reanime.art/). Of
 ### Contacts
 
 - Email: <mirasayon@ya.ru>
-- Telegram: [@miragesayon](https://t.me/miragesayon)
 - X: [@mirasayon](https://x.com/mirasayon)
