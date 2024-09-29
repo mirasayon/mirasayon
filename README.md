@@ -1,7 +1,9 @@
 ## Life only becomes meaningful when it becomes eternal.
 
 <div align="center">
+  
   Sole developer [reanime.art](https://reanime.art/). Often goes by Mira
+  
 </div>
 
 <div align="center">
