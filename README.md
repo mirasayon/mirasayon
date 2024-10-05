@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  Sole developer [reanime.art](https://reanime.art/). Often goes by Mira
+  One of the [reanime.art](https://reanime.art/)  developers. Often goes by Mira
   
 </div>
 
