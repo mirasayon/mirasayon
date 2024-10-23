@@ -1,8 +1,8 @@
-## Life only becomes meaningful when it becomes eternal.
+## "Life only becomes meaningful when it becomes eternal" -Orochimaru
 
 <div align="center">
   
-  One of the [reanime.art](https://reanime.art/)  developers. Often goes by Mira
+  FOSS maintainer. [reanime.art](https://reanime.art/)  developer. Often goes by Mira
   
 </div>
 
