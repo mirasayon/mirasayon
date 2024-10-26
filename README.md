@@ -1,12 +1,8 @@
-## "Life only becomes meaningful when it becomes eternal" -Orochimaru
+## FOSS maintainer. [reanime.art](https://reanime.art/)  developer. Often goes by Mira
 
-<div align="center">
-  
-  FOSS maintainer. [reanime.art](https://reanime.art/)  developer. Often goes by Mira
-  
-</div>
+"Life only becomes meaningful when it becomes eternal" -Orochimaru
 
-### Contacts
+#### Contacts
 
 - Email: <mirasayon@ya.ru>
 - X: [@mirasayon](https://x.com/mirasayon)
