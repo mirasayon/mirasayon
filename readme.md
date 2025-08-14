@@ -1,6 +1,8 @@
 # Mirasayon
 
-Hi, my name is Miralisher. My birthday is August 2, 2005. I am a fan of free and open source software.
+Hi, my name is Miralisher. I am a fan of free and open source software.
+
+August 2, 2005.
 
 [reanime.art](https://reanime.art/) developer.
 
