@@ -1,6 +1,6 @@
-Node.js developer
+Web developer
 
-A fan of free and open source software.
+A big fan of free and open source software.
 
 Birthday August 2, 2005
 
