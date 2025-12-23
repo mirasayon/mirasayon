@@ -1,9 +1,7 @@
-Web developer
+Web developer.
 
-A big fan of free and open source software.
+Passionate about free and open-source software.
 
-Birthday August 2, 2005
+Developer of [reanime.art](https://reanime.art/).
 
-[reanime.art](https://reanime.art/) developer.
-
-Often goes by `Mira`
+Usually goes by **Mira**.
