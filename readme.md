@@ -1,5 +1,3 @@
-Web developer from Tashkent, Uzbekistan.
+Web dev from Uzbekistan.
 
-Passionate about free and open-source software.
-
-Usually goes by **Mira**.
+Usually goes by Mira
