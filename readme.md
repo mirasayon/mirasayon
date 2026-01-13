@@ -1,1 +1,1 @@
-Developer from Uzbekistan
+CS student at TUIT from Uzbekistan
